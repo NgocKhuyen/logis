@@ -9,9 +9,9 @@
 
         <nav id="navmenu" class="navmenu">
             <ul>
-                <li><a href="index.html" class="active">Trang chủ<br></a></li>
-                <li><a href="about.html">Giới thiệu</a></li>
-                <li><a href="services.html">Dịch vụ</a></li>
+                <li><a href="{{ route('index') }}" class="active">Trang chủ<br></a></li>
+                <li><a href="{{ route('about') }}">Giới thiệu</a></li>
+                <li><a href="">Dịch vụ</a></li>
                 <li><a href="pricing.html">Giá cả</a></li>
                 {{-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i
                             class="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -32,7 +32,7 @@
                         <li><a href="#">Dropdown 4</a></li>
                     </ul>
                 </li> --}}
-                <li><a href="contact.html">Liên hệ</a></li>
+                <li><a href="{{ route('contact') }}">Liên hệ</a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
