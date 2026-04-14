@@ -8,7 +8,8 @@
     <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.jpg);">
         <div class="container position-relative">
             <h1>Giới thiệu</h1>
-            <p>Dịch vụ dọn dẹp chuyên nghiệp, giá rẻ, an toàn và trọn gói. Đội ngũ nhân viên thân thiện, nhiệt tình, phục vụ nhanh chóng và tận tâm.</p>
+            <p>Dịch vụ dọn dẹp chuyên nghiệp, giá rẻ, an toàn và trọn gói. Đội ngũ nhân viên thân thiện, nhiệt tình, phục vụ
+                nhanh chóng và tận tâm.</p>
             <nav class="breadcrumbs">
                 <ol>
                     <li><a href="{{ route('index') }}">Trang chủ</a></li>
@@ -34,8 +35,10 @@
                 <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
                     <h3>Về chúng tôi</h3>
                     <p>
-                        Chúng tôi chuyên cung cấp dịch vụ dọn dẹp nhà ở, văn phòng với tiêu chí nhanh chóng – sạch sẽ – tiết kiệm. 
-Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và nhiệt tình, chúng tôi cam kết mang lại không gian sống gọn gàng, thoải mái cho khách hàng.
+                        Chúng tôi chuyên cung cấp dịch vụ dọn dẹp nhà ở, văn phòng với tiêu chí nhanh chóng – sạch sẽ – tiết
+                        kiệm.
+                        Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và nhiệt tình, chúng tôi cam kết mang lại
+                        không gian sống gọn gàng, thoải mái cho khách hàng.
                     </p>
                     <ul>
                         <li>
@@ -58,8 +61,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                             <i class="bi bi-broadcast"></i>
                             <div>
                                 <h5>Nhân viên thân thiện – nhiệt tình/h5>
-                                <p>Luôn hỗ trợ khách hàng tận tâm, đảm bảo an toàn tài sản và sự hài lòng.
-                                </p>
+                                    <p>Luôn hỗ trợ khách hàng tận tâm, đảm bảo an toàn tài sản và sự hài lòng.
+                                    </p>
                             </div>
                         </li>
                     </ul>
@@ -123,7 +126,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
         <div class="container section-title" data-aos="fade-up">
             <span>Đội ngũ Nhân viên<br></span>
             <h2>Đội ngũ Nhân viên</h2>
-            <p>Đội ngũ nhân viên chuyên nghiệp, thân thiện và nhiệt tình, luôn sẵn sàng phục vụ khách hàng với chất lượng tốt nhất.</p>
+            <p>Đội ngũ nhân viên chuyên nghiệp, thân thiện và nhiệt tình, luôn sẵn sàng phục vụ khách hàng với chất lượng
+                tốt nhất.</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -136,10 +140,10 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                         <div class="member-content">
                             <h4>Nguyễn Văn A</h4>
                             <span>Nhân viên Khảo sát
-</span>
+                            </span>
                             <p>
-                                Đội ngũ nhân viên chuyên nghiệp, thân thiện và nhiệt tình, luôn sẵn sàng phục vụ khách hàng với chất lượng tốt nhất.
-                            </p>
+                                Quản lý và kiểm tra chất lượng công việc, đảm bảo mọi dịch vụ đều đạt tiêu chuẩn và đúng
+                                tiến độ. </p>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter-x"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -154,11 +158,10 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="member">
                         <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                         <div class="member-content">
-                            <h4>Sarah Jhinson</h4>
-                            <span>Marketing</span>
-                            <p>
-                                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum
-                                temporibus
+                            <h4>Lê Văn Chí</h4>
+                            <span>Nhân viên kỹ thuật</span>
+                            <p>Chuyên xử lý các công việc vệ sinh chuyên sâu, sử dụng thiết bị và hóa chất an toàn, đảm bảo
+                                hiệu quả và chất lượng dịch vụ.
                             </p>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -174,11 +177,11 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="member">
                         <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                         <div class="member-content">
-                            <h4>William Anderson</h4>
-                            <span>Content</span>
+                            <h4>Trần Văn Nam</h4>
+                            <span>Nhân viên dọn dẹp</span>
                             <p>
-                                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro
-                                des clara
+                                Thân thiện, nhiệt tình, luôn hỗ trợ khách hàng tận tâm, đảm bảo mang lại sự hài lòng trong
+                                từng dịch vụ.
                             </p>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -224,8 +227,9 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                            <h3>Saul Goodman</h3>
-                            <h4>Ceo &amp; Founder</h4>
+                            <h3>Nguyễn Minh Tuấn</h3>
+                            <h4>Nhân viên văn phòng
+                            </h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -233,9 +237,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                    rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                    risus at semper.</span>
+                                <span>Dịch vụ rất nhanh và chuyên nghiệp. Nhân viên đến đúng giờ, làm việc sạch sẽ và cẩn
+                                    thận. Tôi rất hài lòng và sẽ sử dụng lại.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -244,7 +247,7 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                            <h3>Sara Wilsson</h3>
+                            <h3>Trần Thị Lan</h3>
                             <h4>Designer</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -253,9 +256,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                    cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                                    legam anim culpa.</span>
+                                <span>Mình cần dọn gấp cửa hàng, bên này hỗ trợ rất nhanh. Giá hợp lý, làm sạch kỹ từng chi
+                                    tiết. Nhân viên thân thiện, dễ thương.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -264,8 +266,10 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                            <h3>Jena Karlis</h3>
-                            <h4>Store Owner</h4>
+                            <h3>Lê Hoàng Nam
+                            </h3>
+                            <h4>Kỹ sư xây dựng
+                            </h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -273,9 +277,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam
-                                    duis minim tempor labore quem eram duis noster aute amet eram fore quis sint
-                                    minim.</span>
+                                <span>Tôi thuê dịch vụ vệ sinh sau xây dựng và kết quả vượt mong đợi. Sạch sẽ, không làm hư
+                                    hại đồ đạc. Làm việc rất chuyên nghiệp.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -284,8 +287,9 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                            <h3>Matt Brandon</h3>
-                            <h4>Freelancer</h4>
+                            <h3>Phạm Thu Hà</h3>
+                            <h4>Giáo viên
+                            </h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -293,9 +297,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat
-                                    minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore
-                                    labore illum veniam.</span>
+                                <span>Dịch vụ dọn nhà theo giờ rất tiện lợi. Nhân viên nhiệt tình, làm việc có trách nhiệm.
+                                    Nhà cửa gọn gàng hẳn sau khi dọn.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -304,8 +307,10 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                            <h3>John Larson</h3>
-                            <h4>Entrepreneur</h4>
+                            <h3>Võ Thanh Hùng
+                            </h3>
+                            <h4>Chủ quán cà phê
+                            </h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -313,9 +318,8 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                    veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                    culpa fore nisi cillum quid.</span>
+                                <span>Quán mình đông khách nên cần dọn dẹp thường xuyên, bên này làm rất sạch và nhanh. Nhân
+                                    viên làm việc chuyên nghiệp, thái độ tốt, giá cả hợp lý.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -334,9 +338,10 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <span>Frequently Asked Questions</span>
-            <h2>Frequently Asked Questions</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <span>Câu hỏi thường gặp</span>
+            <h2>Câu hỏi thường gặp</h2>
+            <p>Giải đáp những thắc mắc phổ biến của khách hàng về dịch vụ dọn dẹp, giúp bạn hiểu rõ hơn trước khi sử dụng.
+            </p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -349,7 +354,7 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
 
                         <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
                             <i class="faq-icon bi bi-question-circle"></i>
-                            <h3>Non consectetur a erat nam at lectus urna duis?</h3>
+                            <h3>Dịch vụ dọn nhà bao gồm những gì?</h3>
                             <div class="faq-content">
                                 <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non
                                     curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus
@@ -360,36 +365,31 @@ Với đội ngũ nhân viên được đào tạo bài bản, thân thiện và
 
                         <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
                             <i class="faq-icon bi bi-question-circle"></i>
-                            <h3>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h3>
+                            <h3>Chi phí dịch vụ được tính như thế nào?</h3>
                             <div class="faq-content">
-                                <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit
-                                    laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec
-                                    pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus
-                                    turpis massa tincidunt dui.</p>
+                                <p>Chi phí phụ thuộc vào diện tích, tình trạng nhà và loại dịch vụ bạn chọn. Chúng tôi luôn
+                                    báo giá rõ ràng trước khi thực hiện, không phát sinh chi phí.</p>
                             </div>
                             <i class="faq-toggle bi bi-chevron-right"></i>
                         </div><!-- End Faq item-->
 
                         <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
                             <i class="faq-icon bi bi-question-circle"></i>
-                            <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
+                            <h3>Tôi có cần chuẩn bị dụng cụ không?</h3>
                             <div class="faq-content">
-                                <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus
-                                    pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum
-                                    tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna
-                                    molestie at elementum eu facilisis sed odio morbi quis</p>
+                                <p>Không cần. Chúng tôi cung cấp đầy đủ dụng cụ và hóa chất vệ sinh chuyên dụng, đảm bảo an
+                                    toàn và hiệu quả.</p>
                             </div>
                             <i class="faq-toggle bi bi-chevron-right"></i>
                         </div><!-- End Faq item-->
 
                         <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
                             <i class="faq-icon bi bi-question-circle"></i>
-                            <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
+                            <h3>Nhân viên có đảm bảo an toàn tài sản không?
+                            </h3>
                             <div class="faq-content">
-                                <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit
-                                    laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec
-                                    pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus
-                                    turpis massa tincidunt dui.</p>
+                                <p>Đội ngũ nhân viên được đào tạo bài bản, làm việc có trách nhiệm và luôn đảm bảo an toàn
+                                    tài sản cho khách hàng.</p>
                             </div>
                             <i class="faq-toggle bi bi-chevron-right"></i>
                         </div><!-- End Faq item-->
